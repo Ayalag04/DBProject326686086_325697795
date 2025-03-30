@@ -1,0 +1,401 @@
+PID,TotalPay,PaymentMethod
+1,1099,Apple Pay
+2,16936,Apple Pay
+3,42846,Bank Transfer
+4,10794,Credit Card
+5,45445,Bitcoin
+6,41388,Apple Pay
+7,13495,Google Pay
+8,22060,Bitcoin
+9,10390,Apple Pay
+10,698,Bank Transfer
+11,18339,Cash
+12,34650,Apple Pay
+13,48540,Google Pay
+14,48723,Apple Pay
+15,11018,Credit Card
+16,25217,Credit Card
+17,3775,Credit Card
+18,7882,PayPal
+19,41406,Cash
+20,45698,Bank Transfer
+21,20420,Bank Transfer
+22,19884,Apple Pay
+23,44397,Bitcoin
+24,35741,Apple Pay
+25,38267,Bitcoin
+26,14870,Google Pay
+27,17212,PayPal
+28,6861,Bank Transfer
+29,14830,Bitcoin
+30,18697,Bitcoin
+31,49050,PayPal
+32,729,Google Pay
+33,16318,Google Pay
+34,37073,Cash
+35,17340,Bitcoin
+36,1419,PayPal
+37,22751,Bank Transfer
+38,47393,Apple Pay
+39,45377,Bank Transfer
+40,30462,Bank Transfer
+41,27114,PayPal
+42,36995,Cash
+43,39452,Google Pay
+44,19449,Bank Transfer
+45,11331,Bank Transfer
+46,36190,Cash
+47,40255,Bitcoin
+48,32169,Bank Transfer
+49,17319,Google Pay
+50,38444,Cash
+51,46945,Apple Pay
+52,30429,PayPal
+53,38647,PayPal
+54,22562,Cash
+55,12405,Bitcoin
+56,13861,Cash
+57,10376,Credit Card
+58,24182,PayPal
+59,25530,Credit Card
+60,14041,Cash
+61,29331,Bitcoin
+62,24729,Google Pay
+63,42778,Credit Card
+64,15662,PayPal
+65,42705,Google Pay
+66,42300,Bank Transfer
+67,17625,Google Pay
+68,28380,PayPal
+69,30429,Apple Pay
+70,23054,Credit Card
+71,32956,Credit Card
+72,28146,Google Pay
+73,1397,Bank Transfer
+74,7836,Bank Transfer
+75,34823,Credit Card
+76,28773,Cash
+77,48523,Credit Card
+78,43526,Google Pay
+79,4377,Bank Transfer
+80,1235,Bitcoin
+81,39058,Credit Card
+82,10997,Cash
+83,36782,Bitcoin
+84,49569,PayPal
+85,49846,Bank Transfer
+86,37985,PayPal
+87,40407,Credit Card
+88,8435,Bitcoin
+89,35437,Apple Pay
+90,2687,Bitcoin
+91,17882,Credit Card
+92,41307,PayPal
+93,9777,Bitcoin
+94,24646,Bitcoin
+95,48802,Credit Card
+96,11115,Bitcoin
+97,24849,PayPal
+98,39548,Credit Card
+99,37653,Google Pay
+100,24331,PayPal
+101,44092,Google Pay
+102,43176,Credit Card
+103,9166,Google Pay
+104,3870,Bank Transfer
+105,45200,Bank Transfer
+106,7713,Credit Card
+107,1377,Bitcoin
+108,48877,Credit Card
+109,25043,Bitcoin
+110,39323,Apple Pay
+111,44833,Google Pay
+112,46581,Credit Card
+113,48986,Bank Transfer
+114,39721,Apple Pay
+115,10971,Bank Transfer
+116,31990,Cash
+117,29100,Cash
+118,48906,Credit Card
+119,5967,Apple Pay
+120,42942,Bank Transfer
+121,35009,Cash
+122,48418,Apple Pay
+123,38723,Apple Pay
+124,11143,Bank Transfer
+125,5706,PayPal
+126,31678,Apple Pay
+127,25162,Bank Transfer
+128,14002,PayPal
+129,4068,Credit Card
+130,5777,Apple Pay
+131,30872,PayPal
+132,33017,Bank Transfer
+133,5858,Bank Transfer
+134,48161,Bitcoin
+135,37946,PayPal
+136,30628,Bitcoin
+137,35421,Apple Pay
+138,30700,Google Pay
+139,11350,Credit Card
+140,5068,Bitcoin
+141,28690,Google Pay
+142,23407,Cash
+143,39716,Credit Card
+144,32249,Cash
+145,28407,PayPal
+146,33075,Credit Card
+147,37701,Google Pay
+148,1056,PayPal
+149,46362,Apple Pay
+150,27163,PayPal
+151,38773,PayPal
+152,26616,Credit Card
+153,29603,PayPal
+154,2378,Apple Pay
+155,13817,Apple Pay
+156,42555,Bitcoin
+157,31930,Apple Pay
+158,46677,Cash
+159,42341,Bitcoin
+160,9046,Apple Pay
+161,29645,Bitcoin
+162,49279,Cash
+163,7056,Google Pay
+164,24787,Bank Transfer
+165,40134,PayPal
+166,23348,Cash
+167,1302,Google Pay
+168,20961,Bitcoin
+169,49502,PayPal
+170,11034,Credit Card
+171,33588,Apple Pay
+172,45247,Credit Card
+173,16272,Apple Pay
+174,3939,PayPal
+175,2946,Bank Transfer
+176,22758,Bank Transfer
+177,5862,Google Pay
+178,10983,Credit Card
+179,8744,Google Pay
+180,44262,Google Pay
+181,35072,Cash
+182,15173,Google Pay
+183,24894,Credit Card
+184,44572,Credit Card
+185,35700,PayPal
+186,32891,Bitcoin
+187,28914,PayPal
+188,36290,Apple Pay
+189,35804,Bitcoin
+190,11683,Credit Card
+191,34361,Credit Card
+192,28674,Cash
+193,17886,Google Pay
+194,6988,Google Pay
+195,45224,PayPal
+196,23773,Apple Pay
+197,34152,Apple Pay
+198,12155,Google Pay
+199,26736,Google Pay
+200,33886,Credit Card
+201,38011,Bitcoin
+202,44854,Bank Transfer
+203,41111,Bank Transfer
+204,43640,Cash
+205,28579,Google Pay
+206,12339,Bitcoin
+207,2826,Bank Transfer
+208,42091,Apple Pay
+209,32936,Cash
+210,8567,Credit Card
+211,44413,Bitcoin
+212,34323,Apple Pay
+213,27034,Bitcoin
+214,47124,Credit Card
+215,30257,PayPal
+216,6332,PayPal
+217,7932,Bank Transfer
+218,34854,Bitcoin
+219,49704,Bank Transfer
+220,18565,Bank Transfer
+221,32710,Bitcoin
+222,1789,Credit Card
+223,38416,Google Pay
+224,31651,Credit Card
+225,17571,Cash
+226,16338,PayPal
+227,11982,Cash
+228,41943,Google Pay
+229,44082,PayPal
+230,44875,Cash
+231,20908,Google Pay
+232,49043,Apple Pay
+233,32163,Cash
+234,45229,PayPal
+235,30096,Cash
+236,10129,Credit Card
+237,47898,Bank Transfer
+238,12185,Cash
+239,35918,Bitcoin
+240,47582,Bitcoin
+241,23324,Bank Transfer
+242,20704,Apple Pay
+243,15484,Bank Transfer
+244,46496,Apple Pay
+245,4090,PayPal
+246,18263,PayPal
+247,626,Credit Card
+248,41819,PayPal
+249,29846,Credit Card
+250,38050,Bitcoin
+251,12203,Cash
+252,24266,Cash
+253,49700,Bank Transfer
+254,31314,PayPal
+255,14845,PayPal
+256,23964,Google Pay
+257,4984,Google Pay
+258,20442,Cash
+259,32333,Apple Pay
+260,44927,Credit Card
+261,44827,Bitcoin
+262,13280,Credit Card
+263,12450,Google Pay
+264,2412,Apple Pay
+265,21712,PayPal
+266,45114,Bitcoin
+267,5305,PayPal
+268,11967,Bitcoin
+269,32683,PayPal
+270,6078,Bitcoin
+271,21993,Google Pay
+272,42431,Cash
+273,22492,Apple Pay
+274,18409,Cash
+275,10348,Credit Card
+276,19347,Cash
+277,41455,Credit Card
+278,13890,Credit Card
+279,3266,Credit Card
+280,47640,Credit Card
+281,19404,PayPal
+282,4476,Bitcoin
+283,5732,Credit Card
+284,42703,Cash
+285,35664,Apple Pay
+286,44388,Google Pay
+287,47339,Bitcoin
+288,18901,Google Pay
+289,30404,PayPal
+290,1099,Cash
+291,23203,Google Pay
+292,19594,Apple Pay
+293,772,Cash
+294,45468,Credit Card
+295,35908,Bank Transfer
+296,24201,Cash
+297,19388,Credit Card
+298,35365,Bitcoin
+299,2652,Google Pay
+300,38806,Credit Card
+301,35970,Cash
+302,11031,Apple Pay
+303,13561,Bank Transfer
+304,49077,Bank Transfer
+305,18689,Credit Card
+306,19932,Cash
+307,41031,PayPal
+308,16309,Bank Transfer
+309,6681,Apple Pay
+310,8896,PayPal
+311,3301,Bank Transfer
+312,12265,Credit Card
+313,21836,Bitcoin
+314,31144,Bank Transfer
+315,28276,Bank Transfer
+316,21760,Apple Pay
+317,22734,PayPal
+318,15459,Apple Pay
+319,928,Apple Pay
+320,20595,Bitcoin
+321,18447,Bitcoin
+322,24982,Cash
+323,22413,Google Pay
+324,45106,Google Pay
+325,48957,Credit Card
+326,10118,Google Pay
+327,15978,Cash
+328,5535,Cash
+329,18985,Bank Transfer
+330,27417,Cash
+331,22623,PayPal
+332,22559,Credit Card
+333,21342,Credit Card
+334,28612,PayPal
+335,10250,Google Pay
+336,23519,Google Pay
+337,5891,Cash
+338,16009,Credit Card
+339,17838,Credit Card
+340,2396,Cash
+341,5123,Cash
+342,46727,Google Pay
+343,42795,PayPal
+344,49972,Bank Transfer
+345,49296,Bitcoin
+346,24291,Cash
+347,11439,Apple Pay
+348,6813,PayPal
+349,11929,Apple Pay
+350,3264,Bitcoin
+351,46502,Cash
+352,46078,PayPal
+353,43518,Bitcoin
+354,49271,Credit Card
+355,34237,Apple Pay
+356,27252,Google Pay
+357,5462,Bitcoin
+358,42458,Google Pay
+359,4735,Google Pay
+360,47111,Bitcoin
+361,6240,PayPal
+362,41875,Credit Card
+363,46130,Bitcoin
+364,21552,Google Pay
+365,36766,Cash
+366,26360,Bitcoin
+367,2077,Credit Card
+368,37944,Google Pay
+369,8355,Cash
+370,44231,Credit Card
+371,26990,Cash
+372,11659,Bitcoin
+373,34810,PayPal
+374,28785,Bank Transfer
+375,24031,Credit Card
+376,5684,Apple Pay
+377,23963,Apple Pay
+378,47343,Apple Pay
+379,9099,PayPal
+380,29094,Cash
+381,37592,Bank Transfer
+382,7448,Cash
+383,7341,Apple Pay
+384,47223,Apple Pay
+385,41874,Apple Pay
+386,11502,Google Pay
+387,26239,Google Pay
+388,29996,Bitcoin
+389,5339,Apple Pay
+390,40714,Cash
+391,18938,PayPal
+392,14334,PayPal
+393,8350,Cash
+394,22678,Google Pay
+395,2626,PayPal
+396,24914,Bitcoin
+397,38798,Apple Pay
+398,40291,Apple Pay
+399,43540,Apple Pay
+400,28683,Cash

@@ -1,0 +1,401 @@
+HotelID,HotelName,location,starRatung
+1,Wisoky Group,Mawza‘,4
+2,Rath-Rodriguez,Hispania,3
+3,Ledner Inc,Kangle,5
+4,Fay Group,Darong,4
+5,"Bergnaum, McClure and Moore",Nowe Miasto nad Pilicą,4
+6,"Zboncak, Feest and Muller",København,1
+7,"Nicolas, Bode and Lockman",Fareydūnshahr,5
+8,Beier-Boehm,Kobylí,1
+9,"Jacobi, Jacobs and Maggio",Eyvān,4
+10,"Herman, Satterfield and Ziemann",Mautapaga Bawah,2
+11,Wunsch Group,Vítkov,3
+12,Gerhold Inc,Kunheda Woerzu Manzu,4
+13,Toy-Cummerata,Eskilstuna,2
+14,Wunsch-Raynor,Xinji,2
+15,Turner and Sons,Zhouwang,4
+16,"O'Connell, Kreiger and Hayes",Paccha,3
+17,Gorczany-Bernier,Lyuban’,5
+18,Ferry-Muller,Florida,1
+19,Wintheiser and Sons,Pámfylla,4
+20,"Witting, Carroll and Baumbach",Kuangsan,5
+21,Wehner Group,Miratejo,4
+22,"Dibbert, Daugherty and Macejkovic",Muyuka,3
+23,"Boehm, Kozey and Kassulke",Montería,1
+24,Schneider-Pfeffer,Ribeira do Pombal,1
+25,McLaughlin Inc,Constanza,3
+26,"Konopelski, Robel and Jacobi",Lijiaping,5
+27,"Schulist, Sawayn and Parisian",Chřibská,4
+28,Schiller Inc,Alexandria,4
+29,Feil Group,Malysheva,2
+30,"Upton, Weber and Ryan",Novi Karlovci,1
+31,Jast-Wisoky,Warburton,5
+32,Romaguera LLC,Beit Jann,4
+33,O'Hara-Kuhic,Usevia,2
+34,Ondricka Inc,Miaoyu,1
+35,Paucek-Hyatt,Tsushima,1
+36,Mraz-Robel,Pravdinsk,5
+37,Gerhold-Graham,Panikihan,4
+38,"Durgan, Quitzon and Jones",Taoxi,5
+39,Cremin-MacGyver,Alor Setar,4
+40,Schamberger LLC,Koton Karifi,1
+41,"Upton, Wilkinson and Keebler",Llano de Piedra,5
+42,Lynch and Sons,Altanbulag,4
+43,"Harvey, Schaden and Conn",Créteil,2
+44,"Quigley, Bechtelar and VonRueden",Thị Trấn Quan Hóa,4
+45,"Frami, Tillman and Goyette",Cajacay,4
+46,Yundt LLC,La Tour-du-Pin,3
+47,"D'Amore, Dickinson and Kautzer",Leles,3
+48,Zieme-Spencer,Ma’ao,4
+49,Witting-Harber,Ugra,3
+50,"Stoltenberg, Ferry and Friesen",Cox’s Bāzār,3
+51,Beer-Schultz,Sampaloc,5
+52,Carter LLC,Amiens,4
+53,"Gorczany, Mraz and Doyle",Louisville,1
+54,"Huels, Bauch and Larkin",Ya’erya,3
+55,Roberts Group,Muqui,2
+56,"Block, Smith and Glover",Al Jubayhah,4
+57,Vandervort LLC,Alíartos,3
+58,Mayer and Sons,Jiuli,1
+59,Hamill Inc,Ocampo,5
+60,Torp-Kohler,Gombong,1
+61,Roberts-Morar,Fangxian,2
+62,"Pollich, Walsh and Abshire",Owando,5
+63,Rippin-Kerluke,Sonta,3
+64,Marvin LLC,Goujie,3
+65,VonRueden-Pfannerstill,Shiren,2
+66,"Mertz, Zemlak and Jast",Mascouche,1
+67,Reilly-Willms,Shixiang,3
+68,Hane-Abshire,Gotemba,4
+69,Barton LLC,Mölndal,4
+70,"Ryan, Muller and Hessel",Campos Sales,2
+71,Goodwin-Beier,Hannover,5
+72,Kshlerin-McClure,Vanadjou,1
+73,Morar Inc,Karangparwa,2
+74,"Herzog, Rodriguez and Beer",Los Cedrales,1
+75,Nicolas LLC,Ernestinovo,5
+76,Leannon Inc,Ferreñafe,3
+77,Schulist and Sons,Oklahoma City,5
+78,Hagenes-Farrell,Qijiawan,5
+79,"Jenkins, Boyle and Graham",Wolfsberg,4
+80,"Baumbach, Toy and Heidenreich",Kloangrotat,2
+81,Greenholt Inc,Borovskiy,5
+82,Reynolds Group,Intipucá,2
+83,Runolfsson-Bogisich,Capâo Bonito,5
+84,Rohan and Sons,Ninh Giang,5
+85,Dare-Dibbert,Lanshan,1
+86,Dibbert Group,Ganting,5
+87,McClure-Turner,Djibouti,4
+88,Beer LLC,Huanghu,1
+89,Sporer Inc,Jingouhe,1
+90,Breitenberg-Koepp,San Emilio,3
+91,"Price, Runolfsdottir and Green",San Ramón,2
+92,Adams Inc,Náfplio,3
+93,Sporer-Runte,Wum,3
+94,Lubowitz and Sons,Ferreira do Zêzere,4
+95,Jaskolski LLC,Yaozhou,1
+96,Schowalter-Green,Kitamilo,4
+97,Skiles-Keeling,Kamloops,5
+98,Huels-Wuckert,Batán,1
+99,Halvorson Inc,Cibalung,5
+100,"Jenkins, Murray and Marquardt",Guiniculalay,1
+101,Steuber Inc,Shuangyang,5
+102,Schuster Group,Saginaw,3
+103,Runte Inc,Miami,2
+104,Wehner-Mills,Engel’s,3
+105,"Dickens, Turcotte and Macejkovic",Chengdu,4
+106,Lockman-Kunze,Guankou,3
+107,Mills-Zboncak,Qiligang,4
+108,Kautzer LLC,Itaperuçu,3
+109,Reinger-Mann,Alfeizerão,5
+110,"Quitzon, Rippin and Lockman",Resapombo,3
+111,"Rohan, Mitchell and Gerhold",Žďár nad Sázavou,1
+112,"Christiansen, Mueller and Haley",Coaticook,3
+113,Bode-Prohaska,Louisville,5
+114,Sawayn Group,Krajan,5
+115,"Strosin, Weber and Kihn",Aoshi,1
+116,"Kling, Bartoletti and Hamill",Luotuo,1
+117,Huels-Bailey,Bang Mun Nak,1
+118,Rutherford-Kerluke,Caramuca,4
+119,Brekke-Nienow,Yishan,4
+120,Wyman-Swaniawski,Borås,3
+121,Willms-McGlynn,Panitan,4
+122,"Medhurst, Heaney and Mertz",Skövde,4
+123,"MacGyver, Paucek and Stoltenberg",Puerto Cumarebo,3
+124,Schimmel LLC,Kuching,1
+125,Daugherty-Heidenreich,Deqing,5
+126,MacGyver-Haag,Cipari Satu,3
+127,"Boyer, Towne and Hintz",Dengfang,5
+128,Koss Group,Chagang,3
+129,Schimmel and Sons,Matias Olímpio,5
+130,Schultz Group,Were,4
+131,Ward LLC,Wuyang,3
+132,"Marquardt, Kuhic and Cronin",Qobu,2
+133,"Altenwerth, Russel and Bednar",Hashtgerd,1
+134,"Kuhlman, Hickle and Schaefer",Gayamsari,2
+135,Lebsack-Smitham,Semirara,1
+136,"Gleichner, Howe and Gleason",Sagopshi,1
+137,Hahn-Funk,Ülken,2
+138,Hodkiewicz-Jacobs,Gaojia,4
+139,Schneider Inc,Kut Rang,1
+140,Bahringer-Hills,Zhenxing,4
+141,"Daniel, Berge and Kshlerin",Calimita,5
+142,Balistreri Group,Liuche,3
+143,"Leuschke, Hansen and Lockman",Plomárion,5
+144,"Bergstrom, Metz and Moen",Tampa,4
+145,O'Kon Group,Qabqir,1
+146,Runolfsson and Sons,Balung Barat,1
+147,Kautzer-O'Conner,Innisfil,3
+148,Stokes Inc,Liozon,5
+149,"Kuvalis, Mueller and Franecki",Libei,3
+150,Feest Inc,Huanggexi,3
+151,"Bartell, Lindgren and Hagenes",Remiremont,3
+152,Renner-Gibson,Heping,3
+153,Mayer-VonRueden,Dahuangwei,4
+154,Douglas-O'Conner,Krikil,3
+155,McGlynn-Kertzmann,Ketanggi,5
+156,Cassin Group,Aksha,3
+157,Muller Inc,Bobon,2
+158,"Feil, Stokes and Beahan",Glafirovka,1
+159,Hartmann and Sons,Huayuanli,3
+160,"Jast, Wilkinson and Willms",Betioky,3
+161,Halvorson and Sons,Luyi,4
+162,Cremin-Bins,Tosu,5
+163,O'Keefe Group,Arauco,2
+164,"Kuphal, Ondricka and Vandervort",Benniu,4
+165,Roberts Group,Ağdam,3
+166,Smith LLC,Nueve de Julio,4
+167,Fahey-Bernier,Daixi,3
+168,Boyer-Mayer,San Rafael,5
+169,Zemlak-Ratke,Chropyně,5
+170,"Hettinger, Rice and Kautzer",Dallas,5
+171,Little Inc,Drien Rampak,2
+172,"Daniel, Beahan and Prohaska",Växjö,5
+173,Sawayn LLC,Sandakan,2
+174,Cassin-Rolfson,Västervik,3
+175,Bruen Group,Butel,5
+176,"VonRueden, Herman and Hartmann",Ježdovec,1
+177,Raynor and Sons,Alindao,2
+178,Herman-Considine,Ruma,2
+179,Senger-Hermann,Varaždin,1
+180,Becker-Okuneva,Tenggina Daya,1
+181,Gleason Inc,Luzhany,4
+182,"Dickinson, Zulauf and Huels",Puncakwangi,5
+183,"Ortiz, Lebsack and Kemmer",Itapema,4
+184,"Kozey, Stanton and Goyette",Pasir Mas,4
+185,Mosciski Group,Oslo,1
+186,Bartell Group,Xiantang,4
+187,Walker-Gibson,Kansas City,5
+188,Marquardt Group,Tanahmerah,3
+189,"Torp, Lueilwitz and McClure",Pan de Azúcar,1
+190,Rempel-Bechtelar,Guinabsan,1
+191,"Rice, Kessler and Huel",Ourinhos,1
+192,"Beahan, Rogahn and Kautzer",Maubin,1
+193,"Luettgen, Konopelski and Fay",Santa Eulália,3
+194,"Emmerich, Zboncak and Boyle",Yangtan,5
+195,"Stoltenberg, Gleason and Walker",Dongle,5
+196,"Fadel, Marks and O'Conner",Rublëvo,2
+197,"Heller, Rohan and Cartwright",Nha Trang,5
+198,Kshlerin Group,Shchukino,2
+199,"Zieme, Schaden and Erdman",Karlstad,3
+200,Little-Steuber,Youguzhuang,2
+201,"Waelchi, Fay and McKenzie",Katsina-Ala,4
+202,Simonis-Bauch,Bila Krynytsya,2
+203,"Mitchell, Dach and Runte",Chaiwan,3
+204,Bernhard Group,Shuanglongchang,2
+205,McCullough Inc,Pidvynohradiv,1
+206,Ratke Group,Gayny,1
+207,Schmidt Group,Zaysan,1
+208,D'Amore LLC,Kynopiástes,5
+209,"Wehner, O'Kon and Torphy",Lianshan,5
+210,Smith Inc,Ernestinovo,2
+211,"Christiansen, Swift and King",Glamoč,1
+212,Kub-Hammes,Metahāra,5
+213,"Schmitt, Hirthe and Homenick",Haruai,2
+214,Green Group,Shāhpur,3
+215,"Swift, Walker and Smitham",Astromil,5
+216,Rempel Group,Pinhais,3
+217,Harvey and Sons,Kongjiafang,5
+218,"Ritchie, Senger and Jast",Terpsithéa,1
+219,"Deckow, Quitzon and Quigley",Ljungbyholm,4
+220,"Torp, Hauck and Ernser",Estrela,5
+221,"Mitchell, Homenick and Rowe",Boston,5
+222,Koepp-Grant,Uji,5
+223,Mohr Inc,Canga’an,3
+224,Gleichner-Roob,Wawrzeńczyce,4
+225,"Jakubowski, Fisher and Gusikowski",Sandaogou,2
+226,Ryan LLC,Subusub,3
+227,Hickle-Kris,Petoa,4
+228,Schuppe-Altenwerth,Danzi,4
+229,Kozey-Ward,Barueri,2
+230,Vandervort-Keebler,Henglin,5
+231,Spinka and Sons,Maopingchang,4
+232,"Thiel, Ebert and Schmeler",Nonsan,3
+233,Effertz LLC,Kowŏn-ŭp,2
+234,"Beatty, Marks and Dickinson",Qingshu,3
+235,"Adams, Luettgen and Lebsack",Petrikov,4
+236,Hand-Tillman,Polonne,2
+237,Okuneva-Nikolaus,Tambura,2
+238,"Pfannerstill, Hilpert and Conn",Ourtzagh,2
+239,Keebler-Jacobi,Néa Tríglia,3
+240,Jakubowski and Sons,Orito,1
+241,Gulgowski Group,Táriba,3
+242,Batz Group,Sumberkertokrajan,1
+243,Schimmel Group,Charikar,3
+244,Crooks and Sons,Vällingby,4
+245,Heller and Sons,Cherbourg-Octeville,3
+246,Murphy Group,Enköping,1
+247,Cole-Williamson,Baziqiao,4
+248,Botsford-Wintheiser,Stakhanov,5
+249,Goldner Inc,Chouto,2
+250,Pagac-Pollich,Bantiran,1
+251,Casper LLC,Pasiraman,1
+252,"Stehr, Kulas and Renner",Erqu,1
+253,Bogan-Ratke,Igreja,4
+254,Cronin-Jenkins,Caringin Lor,4
+255,Walsh LLC,Cujillo,3
+256,Connelly and Sons,Buenlag,4
+257,Barton Inc,Bailieborough,3
+258,"Maggio, Beer and Kuphal",Klášter,3
+259,Terry and Sons,Polos,3
+260,"Dooley, Schroeder and Von",Nuits-Saint-Georges,1
+261,"Leffler, O'Conner and Wehner",Guebwiller,2
+262,Turcotte-Romaguera,Catarman,2
+263,"Price, Halvorson and Labadie",Wanglu Kulon,2
+264,"Schmidt, Abernathy and Schumm",Nagbalaye,1
+265,Hagenes LLC,Lanot,3
+266,"Douglas, Turner and Schiller",Uničov,1
+267,"Grant, Kuhn and Hoeger",Parumaan,4
+268,"Hartmann, Abbott and Schuppe",Zykovo,3
+269,VonRueden and Sons,Le Mans,1
+270,"Blanda, Marvin and Murazik",Melaka,4
+271,Prosacco LLC,Idah,1
+272,Walter-Rempel,Datong,4
+273,Rolfson Inc,Pingdu,2
+274,Greenfelder-Kutch,Shaoguan,3
+275,"Mills, Stehr and Purdy",Chunmuying,5
+276,Yundt-Boehm,Lianhe,3
+277,"Hamill, Pollich and Krajcik",Kristinehamn,2
+278,Swift-Durgan,Mingyuedian,4
+279,Kuphal Inc,Ar Ramthā,5
+280,Boehm-Moen,Wādī Raḩḩāl,1
+281,Beier and Sons,Nowa Dęba,5
+282,Stroman-Trantow,Sudzha,5
+283,Donnelly-Huel,Mulan,3
+284,Grady and Sons,Nianqiao,4
+285,"Frami, Lebsack and Wisozk",Macapsing,2
+286,"Treutel, Klocko and Beatty",Dimataling,5
+287,Cronin Group,Phú Vang,2
+288,Jacobs Group,Hengfeng,3
+289,Koch and Sons,Caen,1
+290,Shanahan LLC,San Fernando,1
+291,"Schinner, Senger and King",Xinxing,4
+292,O'Keefe and Sons,Independencia,2
+293,Heathcote-Medhurst,Gjirokastër,2
+294,Collier-Christiansen,Sida,2
+295,Marquardt-Schmitt,Pop Shahri,4
+296,Kutch LLC,Pubal,1
+297,Homenick-Walker,Nanqi,2
+298,Lehner-Heaney,Wanjia,4
+299,Aufderhar-Russel,Yessentukskaya,3
+300,Braun-Sipes,Kalāleh,5
+301,"Breitenberg, Herman and Bradtke",Zhuping,1
+302,O'Keefe-Durgan,Estoril,3
+303,Langworth LLC,Saint-Jean-de-Braye,1
+304,Kovacek-Schaefer,Tuzhai,1
+305,Gutkowski Inc,New Orleans,5
+306,Harvey-Weimann,Woniuhe,4
+307,Dickinson and Sons,Nansan,5
+308,Jacobs-Kuhlman,Dongjian,1
+309,Kub-Terry,Batan,5
+310,Koelpin-Rogahn,Głowno,3
+311,Dickinson Group,Vallecillo,2
+312,Heller-Hand,Beigang,2
+313,Spencer Inc,Cogon,5
+314,"Kiehn, White and Mann",Phlapphla Chai,5
+315,Bechtelar-Ebert,Kirovskaya,5
+316,Harber Inc,Trollhättan,3
+317,Prosacco Inc,Cinangsih Satu,1
+318,Mann LLC,Tomas,5
+319,Swift-Kessler,Honglai,3
+320,Treutel-Rippin,Kumberg,5
+321,"Watsica, Gerlach and Bruen",Dasi,2
+322,Spinka-Kuhlman,Xinan,4
+323,"Mosciski, Kihn and Anderson",Kokemäki,1
+324,Bogisich-Bergnaum,Mamu,5
+325,Hickle Group,Nanbin,2
+326,"Dietrich, Witting and Bartoletti",Gaoyao,2
+327,Fahey-Hermiston,Beizi,4
+328,Blanda-Emmerich,Tarragona,4
+329,Mills-Price,Dowr-e Rabāţ,4
+330,Mueller-Dickinson,Horad Barysaw,1
+331,Wuckert-Bins,Poxin,5
+332,Hettinger-Russel,Shaydon,3
+333,"Torp, Harris and Renner",Tulungagung,4
+334,Bernier Group,Kandana,5
+335,"Tremblay, Wintheiser and Armstrong",Lapuan,1
+336,Gleason LLC,Erie,4
+337,Reilly-Kub,Dorupare,3
+338,Vandervort Group,Kasui,5
+339,Kunze-Sauer,Mibu,4
+340,Beatty-Parisian,Gali,1
+341,Osinski Group,Atipuluhan,1
+342,Parker and Sons,Kolyvan’,4
+343,Pfannerstill-Vandervort,Boston,1
+344,"Ferry, Romaguera and Pfeffer",Linjiang,2
+345,"Wilkinson, Beatty and Corwin",Taraan,4
+346,Schamberger-Boehm,Vilhena,4
+347,Grant Inc,Kasimov,4
+348,Mitchell Inc,Batubantar,1
+349,Conn-Nienow,Sidomulyo,2
+350,Fadel Group,El Viejo,3
+351,"Brown, Fadel and Berge",Fort Worth,2
+352,"Hoppe, Padberg and Howe",Pizarrete,4
+353,Lebsack Group,Oyskhara,4
+354,Crona-Schoen,Biga,2
+355,"Conroy, Tremblay and Mraz",Yên Lập,4
+356,"Block, Hintz and Jones",Anshun,4
+357,Rogahn Group,Madison,1
+358,Wuckert-Kub,Sangari,3
+359,"Lueilwitz, Herzog and Bailey",Corani,3
+360,Klein LLC,Blinsung,5
+361,Kohler-Hodkiewicz,Karagach,1
+362,Blick and Sons,Shangchewan,2
+363,Jones and Sons,Wenwuba,1
+364,Kessler-Harber,Izumiōtsu,2
+365,"Dach, Kuhn and Auer",Usatove,5
+366,Schowalter and Sons,Tisno,3
+367,Wunsch LLC,Flin Flon,2
+368,"Abshire, Ward and Huels",Oropesa,1
+369,"Schulist, Bahringer and Satterfield",Hedong,4
+370,Hudson and Sons,Taraš,2
+371,"Ullrich, Morar and Halvorson",Paracuru,2
+372,"Kuhic, Koepp and O'Reilly",Shache,5
+373,Champlin Inc,Lens,2
+374,Wiegand LLC,Miragoâne,4
+375,Macejkovic-Hegmann,Aquia,5
+376,Jenkins-Stamm,Fontainebleau,5
+377,Koelpin and Sons,Pedamaran,1
+378,Luettgen LLC,Oropéndolas,5
+379,Hegmann Group,Ochla,5
+380,Gislason-Runolfsson,Sumberpinang Satu,5
+381,Treutel-Turner,Eger,5
+382,Mayert-Luettgen,Boa Esperança,4
+383,"Emmerich, Schiller and Dickinson",Lazaro Cardenas,4
+384,"Spinka, Blick and Greenfelder",Morong,1
+385,"Schiller, Bartoletti and Schoen",New Orleans,1
+386,"Larkin, Hermiston and Gusikowski",Liboran,4
+387,"Russel, Kertzmann and Stoltenberg",Tingzhou,3
+388,Orn Group,Hrazdan,3
+389,Aufderhar Group,Ulsan,3
+390,Blick and Sons,Tongyu,5
+391,Deckow and Sons,Paris 05,4
+392,"Jast, Rohan and Haley",Daraitan,2
+393,Koepp LLC,Hexi,1
+394,"Mitchell, West and Altenwerth",Hidalgo,2
+395,Hand Group,Liulin,3
+396,Cartwright-Blanda,Dazi,1
+397,Graham-Bahringer,Nizhniy Ufaley,3
+398,"Buckridge, Hagenes and O'Hara",Rungis,5
+399,Abshire and Sons,Saint-Quentin-en-Yvelines,3
+400,Reilly-Parker,Playas,1
