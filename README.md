@@ -62,3 +62,15 @@
 ניהול עובדים – הוספת עובדים חדשים ועדכון פרטיהם.
 
 שיוך חדרים לעובדים – קביעת האחריות של כל עובד על חדרים מסוימים וניהול חלוקת האחריות בין העובדים.
+
+דיאגרמת ERD:![image](https://github.com/user-attachments/assets/45af8a3e-ce38-49cd-b88d-d66a0379bdbf)
+
+תרשים DSD
+![צילום מסך 2025-03-31 124531](https://github.com/user-attachments/assets/66e5b00a-e30c-48ee-abc6-92e67106b7ec)
+
+גיבוי ושחזור:
+![צילום מסך 2025-03-31 094651](https://github.com/user-attachments/assets/52d194db-032c-48e0-8424-c85d994f1ddb)
+![צילום מסך 2025-03-31 094736](https://github.com/user-attachments/assets/f96a3af4-f775-4433-be15-a03e7bd1125f)
+
+
+
