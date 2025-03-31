@@ -68,18 +68,25 @@
 תרשים DSD
 ![צילום מסך 2025-03-31 124531](https://github.com/user-attachments/assets/66e5b00a-e30c-48ee-abc6-92e67106b7ec)
 
+
 3 השיטות להכנסת נתונים:
+
 1. ישירות מקוד בפייתון:
+
 ![צילום מסך 2025-03-31 131839](https://github.com/user-attachments/assets/f5f41f6d-505e-42cf-8c76-032ec07c4998)
 
 2. יצירת השאילתות דרך קוד בפייתון:
+
 ![image](https://github.com/user-attachments/assets/0e13578e-ae1f-4092-bcb6-5a41e62d0449)
    הפלט:
+
 ![image](https://github.com/user-attachments/assets/88b0ca55-c490-4667-811f-bd1533fbaa0b)
 
 3. יצירת קובץ CSV מאתר mockaroo:
+
 ![image](https://github.com/user-attachments/assets/3304039d-edd1-4f23-8e3e-859c435d4d9c)
 הקובץ שנוצר:
+
 ![image](https://github.com/user-attachments/assets/dead27bc-8981-4338-a40a-3eebb6d385a0)
 
 
