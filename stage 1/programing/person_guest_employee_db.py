@@ -19,9 +19,13 @@ cursor = conn.cursor()
 # פונקציה להוספת נתונים ל- Person
 def insert_person(n=400):
     for _ in range(n):
+        pname = fake.name()
         email = fake.email()
         phone = fake.phone_number()[:20]  # גזירת המספר לאורך 20 תווים
-        cursor.execute("INSERT INTO Person (Email, Phone) VALUES (%s, %s) RETURNING PID;", (email, phone))
+        cursor.execute(
+            "INSERT INTO Person (PName, Email, Phone) VALUES (%s, %s, %s) RETURNING PID;",
+            (pname, email, phone)
+        )
     conn.commit()
 
 
