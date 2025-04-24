@@ -190,6 +190,7 @@
 ![unnamed](https://github.com/user-attachments/assets/d1f70f8a-63b3-4a45-a439-f8b740f1e702)
 
 השאילתה-
+
 ![unnamed](https://github.com/user-attachments/assets/3846ff92-c963-4e39-a6b1-a30a609e5093)
 
 לאחר הרצת השאילתה-
