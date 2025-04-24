@@ -129,7 +129,9 @@
 
 
 שאילתות delete:
+
 1.מחיקת כל ההזמנות שבוצעו בשנה הקודמת ושכבר הסתיימו
+
 לפני הרצת השאילתה-
 ![unnamed](https://github.com/user-attachments/assets/ad36a2bc-8e1b-4d4f-b84a-7c0a8f27f831)
 השאילתה-
@@ -139,6 +141,7 @@
 
 
 2. מחיקת כל החדרים שאף אחד לא הזמין אותם ואף עובד לא אחראי עליהם
+3. 
 לפני הרצת השאילתה, ניתן לראות שיש 100 שורות-
 ![unnamed](https://github.com/user-attachments/assets/72d9a4bc-b2fc-4799-b34b-e092efeace12)
 
