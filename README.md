@@ -141,7 +141,7 @@
 
 
 2. מחיקת כל החדרים שאף אחד לא הזמין אותם ואף עובד לא אחראי עליהם
-3. 
+
 לפני הרצת השאילתה, ניתן לראות שיש 100 שורות-
 ![unnamed](https://github.com/user-attachments/assets/72d9a4bc-b2fc-4799-b34b-e092efeace12)
 
@@ -149,12 +149,13 @@
  ![unnamed](https://github.com/user-attachments/assets/63a34a3a-bdc6-4c0a-aae2-d5ca4a60c757)
 
 
-1.מחיקת כל ההזמנות שבוצעו בשנה הקודמת ושכבר הסתיימו
-לפני הרצת השאילתה-
+3.מחיקת כל האורחים שמעולם לא ביצעו הזמנה
 
-השאילתה-
+לפני הרצת השאילתה, ניתן לראות שיש 400 שורות-
+![unnamed](https://github.com/user-attachments/assets/f72d8b58-d28c-4569-82c3-2e5912b7c09a)
 
-לאחר הרצת השאילתה-
+השאילתה ומצב בסיס הנתונים לאחר הרצתה, ניתן לראות שיש 316 שורות-
+![unnamed](https://github.com/user-attachments/assets/6829742d-aa5c-4060-a1b6-665d555829d1)
 
 
 rollback:
