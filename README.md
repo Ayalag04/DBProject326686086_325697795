@@ -158,14 +158,49 @@
 ![unnamed](https://github.com/user-attachments/assets/6829742d-aa5c-4060-a1b6-665d555829d1)
 
 
-rollback:
+שאילתות update:
+
+1. העלאת מחיר חדר ב5% אם הוזמן יותר מ3 פעמים
+
+לפני הרצת השאילתה-
+![unnamed](https://github.com/user-attachments/assets/48506536-7d31-42b5-ab5c-bccc6b142294)
+
+השאילתה- 
+![unnamed](https://github.com/user-attachments/assets/02d6f249-6b35-4f43-8a9d-8ee196514b7e)
+
+לאחר הרצת השאילתה-
+![unnamed](https://github.com/user-attachments/assets/29b0a969-c06a-40e9-94f5-19a9bcb6e02c)
+
+
+2. עדכון סטטוס הזמנות שהסתיימו ל "completed" והזמנות שתאריך ההגעה שלהן ביום למחרת ל "upcoming"
+
+לפני הרצת השאילתה-
+![unnamed](https://github.com/user-attachments/assets/6dcef830-7877-4c1c-a24e-29574fb18c3c)
+
+השאילתה-
+![unnamed](https://github.com/user-attachments/assets/5d7d0750-26f2-4af7-b8d9-6014882ee36f)
+
+לאחר הרצת השאילתה-
+![unnamed](https://github.com/user-attachments/assets/1747fd09-efa6-4ef0-8381-0e6c5dbc94d1)
+
+
+3. העלאת מחיר חדר ב5% אם הוזמן יותר מ5 פעמים
+
+לפני הרצת השאילתה-
+
+השאילתה-
+
+לאחר הרצת השאילתה-
+
+
+פעולת rollback:
 
 מצב בסיס הנתונים לאחר עדכון - ניתן לראות שכל תאריכי היציאה הם ב2025 בגלל פעולת המחיקה הראשונה
 ![unnamed](https://github.com/user-attachments/assets/7efad103-e147-463f-be85-aa45f8b88460)
 מצב בסיס הנתונים לאחר הrollback - ניתן לראות שהמצב חזר לקדמותו (גם לפי מספר השורות שגדל)
 ![unnamed](https://github.com/user-attachments/assets/4da1dc66-80bb-4001-83b0-5fb76f95fd1b)
 
-commit:
+פעולת commit:
 
 לאחר הפעלת שאילתת המחיקה, כתבנו commit ולכן גם אחר ביצוע פעולת הrollback המצב נשאר אותו דבר 
 ![unnamed](https://github.com/user-attachments/assets/a54f3bf9-bca6-4996-98b9-452ecf239457)
