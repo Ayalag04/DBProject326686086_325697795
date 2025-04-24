@@ -159,12 +159,14 @@
 
 
 rollback:
+
 מצב בסיס הנתונים לאחר עדכון - ניתן לראות שכל תאריכי היציאה הם ב2025 בגלל פעולת המחיקה הראשונה
 ![unnamed](https://github.com/user-attachments/assets/7efad103-e147-463f-be85-aa45f8b88460)
 מצב בסיס הנתונים לאחר הrollback - ניתן לראות שהמצב חזר לקדמותו (גם לפי מספר השורות שגדל)
 ![unnamed](https://github.com/user-attachments/assets/4da1dc66-80bb-4001-83b0-5fb76f95fd1b)
 
 commit:
+
 לאחר הפעלת שאילתת המחיקה, כתבנו commit ולכן גם אחר ביצוע פעולת הrollback המצב נשאר אותו דבר 
 ![unnamed](https://github.com/user-attachments/assets/a54f3bf9-bca6-4996-98b9-452ecf239457)
 
