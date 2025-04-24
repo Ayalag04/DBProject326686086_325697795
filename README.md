@@ -184,13 +184,17 @@
 ![unnamed](https://github.com/user-attachments/assets/1747fd09-efa6-4ef0-8381-0e6c5dbc94d1)
 
 
-3. העלאת מחיר חדר ב5% אם הוזמן יותר מ5 פעמים
+3. העלאת משכורת עובד לפי ותק
 
 לפני הרצת השאילתה-
+![unnamed](https://github.com/user-attachments/assets/d1f70f8a-63b3-4a45-a439-f8b740f1e702)
 
 השאילתה-
+![unnamed](https://github.com/user-attachments/assets/3846ff92-c963-4e39-a6b1-a30a609e5093)
 
 לאחר הרצת השאילתה-
+![unnamed](https://github.com/user-attachments/assets/7cb85b68-0cca-4a77-90e6-c9f903f4e357)
+
 
 
 פעולת rollback:
