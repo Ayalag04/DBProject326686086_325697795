@@ -211,3 +211,18 @@
 ![unnamed](https://github.com/user-attachments/assets/a54f3bf9-bca6-4996-98b9-452ecf239457)
 
 
+אילוצים:
+
+1. שם מלון לא יכול להיות NULL
+
+ניסיון הכנסה שיוצר סתירה- 
+![unnamed](https://github.com/user-attachments/assets/23d7b95e-dc51-411d-9db3-f2adbda0923b)
+
+
+2. משכורת של עובד לא יכולה להיות שלילית או אפס
+
+ניסיון הכנסה שיוצר סתירה- 
+
+
+3. סטטוס של הזמנה יהיה ברירת מחדל "pending"
+
