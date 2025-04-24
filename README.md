@@ -96,21 +96,72 @@
 דוח שלב ב'- שאילתות ואילוצים:
 
 שאילתות select:
-1. מציג את רשימת האורחים שביצעו check-in במהלך חודש מאי - כולל מידע על המלון, סוג החדר ומחיר ללילה.
+1. מציגה את רשימת האורחים שביצעו check-in במהלך חודש מאי - כולל מידע על המלון, סוג החדר ומחיר ללילה
 ![image](https://github.com/user-attachments/assets/17992c13-19e2-4994-8e34-2905b54e7f73)
 ![image (1)](https://github.com/user-attachments/assets/376cff59-54c5-4a31-9f57-d859f86991e5)
 
-2. כל החדרים שלא משויכים לאף הזמנה.
+2. כל החדרים שלא משויכים לאף הזמנה
 ![unnamed](https://github.com/user-attachments/assets/ee465b26-7df4-428c-8f3c-346195db1d91)
 ![unnamed](https://github.com/user-attachments/assets/a5f4b070-4e93-4e48-8c39-282ea7b2d14c)
 
-3. מציגה עבור כל מלון את הכנסותיו הכלליות עבור כל ההזמנות שבוצעו אצלו.
+3. מציגה עבור כל מלון את הכנסותיו הכלליות עבור כל ההזמנות שבוצעו אצלו
 ![unnamed](https://github.com/user-attachments/assets/be97de61-6bdf-4bae-a11f-0f172db0da94)
 ![unnamed](https://github.com/user-attachments/assets/59748df3-a58f-4c1e-b9cf-eed1f2da1fb8)
 
-4. מציגה את כל ההזמנות שבוצעו השנה עם מספר הזמנה, שם האורח ותאריכים.
+4. מציגה את כל ההזמנות שבוצעו השנה עם מספר הזמנה, שם האורח ותאריכים
 ![unnamed](https://github.com/user-attachments/assets/dd0735a3-6f70-4559-bd7f-49c4863335cf)
 ![unnamed](https://github.com/user-attachments/assets/7e91af33-5a50-4f2a-8972-6cfa18bc4353)
 
-5. מציגה מחיר ממוצע ללילה לפי סוג החדר.
+5. מציגה מחיר ממוצע ללילה לפי סוג החדר
 ![unnamed](https://github.com/user-attachments/assets/719e83ef-a864-4676-812d-68fd0372c418)
+
+6. מציגה עובדים שאחראים על יותר מ2 חדרים
+![unnamed](https://github.com/user-attachments/assets/d2c96191-edc6-4843-ab01-3d65b478d03e)
+![unnamed](https://github.com/user-attachments/assets/6b8f5d32-342a-4b54-98c4-07767272c9ce)
+
+7. מציגה את החדרים שיש בהם אורחים ברגע זה ואת שמות האורחים
+![unnamed](https://github.com/user-attachments/assets/18fb9574-3dcd-4ddd-9460-1d125a75cced)
+![unnamed](https://github.com/user-attachments/assets/2a6acd1a-1522-424d-8057-2d090381008f)
+
+8. מציגה פירוט מלא של הזמנה - שם האורח, פרטי תשלום, סוג חדר, ותאריכי כניסה ויציאה
+![unnamed](https://github.com/user-attachments/assets/1327944e-8779-4560-8755-d77a2c35f7bd)
+![unnamed](https://github.com/user-attachments/assets/39a77cb0-c231-488a-827e-2fcb6c396b2a)
+
+
+שאילתות delete:
+1.מחיקת כל ההזמנות שבוצעו בשנה הקודמת ושכבר הסתיימו
+לפני הרצת השאילתה-
+![unnamed](https://github.com/user-attachments/assets/ad36a2bc-8e1b-4d4f-b84a-7c0a8f27f831)
+השאילתה-
+![unnamed](https://github.com/user-attachments/assets/16882624-df73-42eb-b786-75b1bec15fcf)
+לאחר הרצת השאילתה-
+![unnamed](https://github.com/user-attachments/assets/e215543e-f5ba-4a48-a578-7372220f627e)
+
+
+2. מחיקת כל החדרים שאף אחד לא הזמין אותם ואף עובד לא אחראי עליהם
+לפני הרצת השאילתה, ניתן לראות שיש 100 שורות-
+![unnamed](https://github.com/user-attachments/assets/72d9a4bc-b2fc-4799-b34b-e092efeace12)
+
+השאילתה ומצב בסיס הנתונים לאחר הרצתה, ניתן לראות שיש 400 שורות-
+ ![unnamed](https://github.com/user-attachments/assets/63a34a3a-bdc6-4c0a-aae2-d5ca4a60c757)
+
+
+1.מחיקת כל ההזמנות שבוצעו בשנה הקודמת ושכבר הסתיימו
+לפני הרצת השאילתה-
+
+השאילתה-
+
+לאחר הרצת השאילתה-
+
+
+rollback:
+מצב בסיס הנתונים לאחר עדכון - ניתן לראות שכל תאריכי היציאה הם ב2025 בגלל פעולת המחיקה הראשונה
+![unnamed](https://github.com/user-attachments/assets/7efad103-e147-463f-be85-aa45f8b88460)
+מצב בסיס הנתונים לאחר הrollback - ניתן לראות שהמצב חזר לקדמותו (גם לפי מספר השורות שגדל)
+![unnamed](https://github.com/user-attachments/assets/4da1dc66-80bb-4001-83b0-5fb76f95fd1b)
+
+commit:
+לאחר הפעלת שאילתת המחיקה, כתבנו commit ולכן גם אחר ביצוע פעולת הrollback המצב נשאר אותו דבר 
+![unnamed](https://github.com/user-attachments/assets/a54f3bf9-bca6-4996-98b9-452ecf239457)
+
+
