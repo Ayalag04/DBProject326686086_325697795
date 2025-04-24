@@ -1,13 +1,11 @@
 # DBProject326686086_325697795
-דוח שלב א' - מערכת לניהול בתי מלון
-
 מגישות: אילה גלבר ואיילת פרידמן
 
 שם המערכת: מערכת לניהול בתי מלון
 
 היחידה הנבחרת: ניהול הזמנות ותשלומים
 
-
+דוח שלב א' - מערכת לניהול בתי מלון
 
 **תוכן עניינים:**
 
@@ -95,5 +93,24 @@
 
 ![צילום מסך 2025-03-31 094736](https://github.com/user-attachments/assets/f96a3af4-f775-4433-be15-a03e7bd1125f)
 
+דוח שלב ב'- שאילתות ואילוצים:
 
+שאילתות select:
+1. מציג את רשימת האורחים שביצעו check-in במהלך חודש מאי - כולל מידע על המלון, סוג החדר ומחיר ללילה.
+![image](https://github.com/user-attachments/assets/17992c13-19e2-4994-8e34-2905b54e7f73)
+![image (1)](https://github.com/user-attachments/assets/376cff59-54c5-4a31-9f57-d859f86991e5)
 
+2. כל החדרים שלא משויכים לאף הזמנה.
+![unnamed](https://github.com/user-attachments/assets/ee465b26-7df4-428c-8f3c-346195db1d91)
+![unnamed](https://github.com/user-attachments/assets/a5f4b070-4e93-4e48-8c39-282ea7b2d14c)
+
+3. מציגה עבור כל מלון את הכנסותיו הכלליות עבור כל ההזמנות שבוצעו אצלו.
+![unnamed](https://github.com/user-attachments/assets/be97de61-6bdf-4bae-a11f-0f172db0da94)
+![unnamed](https://github.com/user-attachments/assets/59748df3-a58f-4c1e-b9cf-eed1f2da1fb8)
+
+4. מציגה את כל ההזמנות שבוצעו השנה עם מספר הזמנה, שם האורח ותאריכים.
+![unnamed](https://github.com/user-attachments/assets/dd0735a3-6f70-4559-bd7f-49c4863335cf)
+![unnamed](https://github.com/user-attachments/assets/7e91af33-5a50-4f2a-8972-6cfa18bc4353)
+
+5. מציגה מחיר ממוצע ללילה לפי סוג החדר.
+![unnamed](https://github.com/user-attachments/assets/719e83ef-a864-4676-812d-68fd0372c418)
