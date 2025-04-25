@@ -222,7 +222,6 @@
 2. משכורת של עובד לא יכולה להיות שלילית או אפס
 
 ניסיון הכנסה שיוצר סתירה- 
-![image](https://github.com/user-attachments/assets/b5e32ada-996e-4de6-9c10-e37ebdb1672b)
 
 
 
