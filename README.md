@@ -1,13 +1,11 @@
 # DBProject326686086_325697795
-דוח שלב א' - מערכת לניהול בתי מלון
-
 מגישות: אילה גלבר ואיילת פרידמן
 
 שם המערכת: מערכת לניהול בתי מלון
 
 היחידה הנבחרת: ניהול הזמנות ותשלומים
 
-
+דוח שלב א' - מערכת לניהול בתי מלון
 
 **תוכן עניינים:**
 
@@ -95,5 +93,136 @@
 
 ![צילום מסך 2025-03-31 094736](https://github.com/user-attachments/assets/f96a3af4-f775-4433-be15-a03e7bd1125f)
 
+דוח שלב ב'- שאילתות ואילוצים:
 
+שאילתות select:
+1. מציגה את רשימת האורחים שביצעו check-in במהלך חודש מאי - כולל מידע על המלון, סוג החדר ומחיר ללילה
+![image](https://github.com/user-attachments/assets/17992c13-19e2-4994-8e34-2905b54e7f73)
+![image (1)](https://github.com/user-attachments/assets/376cff59-54c5-4a31-9f57-d859f86991e5)
+
+2. כל החדרים שלא משויכים לאף הזמנה
+![unnamed](https://github.com/user-attachments/assets/ee465b26-7df4-428c-8f3c-346195db1d91)
+![unnamed](https://github.com/user-attachments/assets/a5f4b070-4e93-4e48-8c39-282ea7b2d14c)
+
+3. מציגה עבור כל מלון את הכנסותיו הכלליות עבור כל ההזמנות שבוצעו אצלו
+![unnamed](https://github.com/user-attachments/assets/be97de61-6bdf-4bae-a11f-0f172db0da94)
+![unnamed](https://github.com/user-attachments/assets/59748df3-a58f-4c1e-b9cf-eed1f2da1fb8)
+
+4. מציגה את כל ההזמנות שבוצעו השנה עם מספר הזמנה, שם האורח ותאריכים
+![unnamed](https://github.com/user-attachments/assets/dd0735a3-6f70-4559-bd7f-49c4863335cf)
+![unnamed](https://github.com/user-attachments/assets/7e91af33-5a50-4f2a-8972-6cfa18bc4353)
+
+5. מציגה מחיר ממוצע ללילה לפי סוג החדר
+![unnamed](https://github.com/user-attachments/assets/719e83ef-a864-4676-812d-68fd0372c418)
+
+6. מציגה עובדים שאחראים על יותר מ2 חדרים
+![unnamed](https://github.com/user-attachments/assets/d2c96191-edc6-4843-ab01-3d65b478d03e)
+![unnamed](https://github.com/user-attachments/assets/6b8f5d32-342a-4b54-98c4-07767272c9ce)
+
+7. מציגה את החדרים שיש בהם אורחים ברגע זה ואת שמות האורחים
+![unnamed](https://github.com/user-attachments/assets/18fb9574-3dcd-4ddd-9460-1d125a75cced)
+![unnamed](https://github.com/user-attachments/assets/2a6acd1a-1522-424d-8057-2d090381008f)
+
+8. מציגה פירוט מלא של הזמנה - שם האורח, פרטי תשלום, סוג חדר, ותאריכי כניסה ויציאה
+![unnamed](https://github.com/user-attachments/assets/1327944e-8779-4560-8755-d77a2c35f7bd)
+![unnamed](https://github.com/user-attachments/assets/39a77cb0-c231-488a-827e-2fcb6c396b2a)
+
+
+שאילתות delete:
+
+1.מחיקת כל ההזמנות שבוצעו בשנה הקודמת ושכבר הסתיימו
+
+לפני הרצת השאילתה-
+![unnamed](https://github.com/user-attachments/assets/ad36a2bc-8e1b-4d4f-b84a-7c0a8f27f831)
+השאילתה-
+![unnamed](https://github.com/user-attachments/assets/16882624-df73-42eb-b786-75b1bec15fcf)
+לאחר הרצת השאילתה-
+![unnamed](https://github.com/user-attachments/assets/e215543e-f5ba-4a48-a578-7372220f627e)
+
+
+2. מחיקת כל החדרים שאף אחד לא הזמין אותם ואף עובד לא אחראי עליהם
+
+לפני הרצת השאילתה, ניתן לראות שיש 100 שורות-
+![unnamed](https://github.com/user-attachments/assets/72d9a4bc-b2fc-4799-b34b-e092efeace12)
+
+השאילתה ומצב בסיס הנתונים לאחר הרצתה, ניתן לראות שיש 400 שורות-
+ ![unnamed](https://github.com/user-attachments/assets/63a34a3a-bdc6-4c0a-aae2-d5ca4a60c757)
+
+
+3.מחיקת כל האורחים שמעולם לא ביצעו הזמנה
+
+לפני הרצת השאילתה, ניתן לראות שיש 400 שורות-
+![unnamed](https://github.com/user-attachments/assets/f72d8b58-d28c-4569-82c3-2e5912b7c09a)
+
+השאילתה ומצב בסיס הנתונים לאחר הרצתה, ניתן לראות שיש 316 שורות-
+![unnamed](https://github.com/user-attachments/assets/6829742d-aa5c-4060-a1b6-665d555829d1)
+
+
+שאילתות update:
+
+1. העלאת מחיר חדר ב5% אם הוזמן יותר מ3 פעמים
+
+לפני הרצת השאילתה-
+![unnamed](https://github.com/user-attachments/assets/48506536-7d31-42b5-ab5c-bccc6b142294)
+
+השאילתה- 
+![unnamed](https://github.com/user-attachments/assets/02d6f249-6b35-4f43-8a9d-8ee196514b7e)
+
+לאחר הרצת השאילתה-
+![unnamed](https://github.com/user-attachments/assets/29b0a969-c06a-40e9-94f5-19a9bcb6e02c)
+
+
+2. עדכון סטטוס הזמנות שהסתיימו ל "completed" והזמנות שתאריך ההגעה שלהן ביום למחרת ל "upcoming"
+
+לפני הרצת השאילתה-
+![unnamed](https://github.com/user-attachments/assets/6dcef830-7877-4c1c-a24e-29574fb18c3c)
+
+השאילתה-
+![unnamed](https://github.com/user-attachments/assets/5d7d0750-26f2-4af7-b8d9-6014882ee36f)
+
+לאחר הרצת השאילתה-
+![unnamed](https://github.com/user-attachments/assets/1747fd09-efa6-4ef0-8381-0e6c5dbc94d1)
+
+
+3. העלאת משכורת עובד לפי ותק
+
+לפני הרצת השאילתה-
+![unnamed](https://github.com/user-attachments/assets/d1f70f8a-63b3-4a45-a439-f8b740f1e702)
+
+השאילתה-
+
+![unnamed](https://github.com/user-attachments/assets/3846ff92-c963-4e39-a6b1-a30a609e5093)
+
+לאחר הרצת השאילתה-
+![unnamed](https://github.com/user-attachments/assets/7cb85b68-0cca-4a77-90e6-c9f903f4e357)
+
+
+
+פעולת rollback:
+
+מצב בסיס הנתונים לאחר עדכון - ניתן לראות שכל תאריכי היציאה הם ב2025 בגלל פעולת המחיקה הראשונה
+![unnamed](https://github.com/user-attachments/assets/7efad103-e147-463f-be85-aa45f8b88460)
+מצב בסיס הנתונים לאחר הrollback - ניתן לראות שהמצב חזר לקדמותו (גם לפי מספר השורות שגדל)
+![unnamed](https://github.com/user-attachments/assets/4da1dc66-80bb-4001-83b0-5fb76f95fd1b)
+
+פעולת commit:
+
+לאחר הפעלת שאילתת המחיקה, כתבנו commit ולכן גם אחר ביצוע פעולת הrollback המצב נשאר אותו דבר 
+![unnamed](https://github.com/user-attachments/assets/a54f3bf9-bca6-4996-98b9-452ecf239457)
+
+
+אילוצים:
+
+1. שם מלון לא יכול להיות NULL
+
+ניסיון הכנסה שיוצר סתירה- 
+![unnamed](https://github.com/user-attachments/assets/23d7b95e-dc51-411d-9db3-f2adbda0923b)
+
+
+2. משכורת של עובד לא יכולה להיות שלילית או אפס
+
+ניסיון הכנסה שיוצר סתירה- 
+
+
+3. סטטוס של הזמנה יהיה ברירת מחדל "pending"
 

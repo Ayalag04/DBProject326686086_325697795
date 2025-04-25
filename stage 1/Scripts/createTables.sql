@@ -16,7 +16,7 @@ CREATE TABLE Room (
 
 CREATE TABLE Person (
     PID SERIAL PRIMARY KEY,
-	PName VARCHAR(255),
+    PName VARCHAR(255),
     Email VARCHAR(255),
     Phone VARCHAR(20)
 );
