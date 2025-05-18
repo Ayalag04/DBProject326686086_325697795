@@ -254,3 +254,5 @@ ERD של הקבוצה השניה:
 
 ה ERD החדש:
 ![image (5)](https://github.com/user-attachments/assets/59b428f0-f43f-4b56-ab8a-1dd4e644858f)
+הDSD החדש:
+![image](https://github.com/user-attachments/assets/217a50d1-49c5-48ae-85e2-cec3af5aaee6)
