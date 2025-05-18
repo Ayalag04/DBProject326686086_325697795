@@ -256,3 +256,11 @@ ERD של הקבוצה השניה:
 ![image (5)](https://github.com/user-attachments/assets/59b428f0-f43f-4b56-ab8a-1dd4e644858f)
 הDSD החדש:
 ![image](https://github.com/user-attachments/assets/217a50d1-49c5-48ae-85e2-cec3af5aaee6)
+
+שאילתות על המבט הראשון:
+
+שאילתה ראשונה:
+ממוצע תשלום לפי סוג פעילות, רק למי שהוא אורח במלון
+https://mail.google.com/mail/u/0?ui=2&ik=94cf8c2a4e&attid=0.2&permmsgid=msg-f:1832193145694576112&th=196d41f56907ddf0&view=att&disp=safe&realattid=f_mapejc9g1&zw
+
+
