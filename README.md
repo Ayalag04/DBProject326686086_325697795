@@ -267,7 +267,7 @@ ERD של הקבוצה השניה:
 מנקודת המבט שלהם, הוא מרכז את כל המידע הרלוונטי על מבקרים, הפעילות שהוזמנה, המתקן שבו היא מתקיימת, ומידע על התשלום (אם קיים)
 
 שליפת נתונים עם select:
-![Screenshot 2025-05-18 192618](https://github.com/user-attachments/assets/03e0af34-ac78-427f-a265-d03705e03535)
+![Screenshot 2025-05-18 193041](https://github.com/user-attachments/assets/15a7f86d-ce29-41b1-b1e3-631ee1b268cc)
 
 
 שאילתות על המבט הראשון:
@@ -293,7 +293,8 @@ ERD של הקבוצה השניה:
 
 שליפת נתונים עם select:
 
-![Screenshot 2025-05-18 193041](https://github.com/user-attachments/assets/15a7f86d-ce29-41b1-b1e3-631ee1b268cc)
+![Screenshot 2025-05-18 192618](https://github.com/user-attachments/assets/03e0af34-ac78-427f-a265-d03705e03535)
+
 
 שאילתות על המבט השני :
 
