@@ -315,75 +315,165 @@ ERD של הקבוצה השניה:
 
 דוח שלב ד'- תכנות PL/pgSQL:
 
+
+
 פונקציות:
+
+
 פונקציה 1: החזרת רשימת פעילויות עם מקומות פנויים בלבד
+
+
 ![image](https://github.com/user-attachments/assets/7be82de6-f2a8-4b77-8118-94b6dc9bcccc)
 
+
+
 בדיקה שהפונקציה עובדת:
+
+
 ![image](https://github.com/user-attachments/assets/cb853bdc-8147-497c-852d-3d9dbad11bca)
 
+
+
 פונקציה 2: חישוב סה"כ תשלום לפי מזהה תשלום
+
+
 ![image](https://github.com/user-attachments/assets/ace02f61-2510-478b-b6d6-410383187d68)
 
+
+
 בדיקה שהפונקציה עובדת:
+
+
 ![image](https://github.com/user-attachments/assets/1b2dbc72-09cc-47b8-94d5-baf4abcbe90f)
 
 
 
+
+
 פונקציה 3: פונקציה שמחזירה רשימת פעילויות דרך REFCURSOR
+
+
 ![image](https://github.com/user-attachments/assets/2f65ac67-fb42-401f-bb93-677c70d924d0)
 
+
+
 בדיקה שהפונקציה עובדת:
+
+
 ![image](https://github.com/user-attachments/assets/224c30c6-3002-4b07-bc86-7fc38f2f903e)
 
 
+
+
 פרוצדורות:
+
+
+
 פרוצדורה 1: עדכון מחיר פעילות לפי מזהה פעילות
+
+
 ![image](https://github.com/user-attachments/assets/21597595-7187-47f1-ba30-986f40057de7)
 
+
+
 הפעלת הפרוצדורה:
+
+
 ![image](https://github.com/user-attachments/assets/522355d2-80b5-4bdc-8988-83e51254c2de)
 
+
+
 השינוי בבסיס הנתונים:
+
+
 ![image](https://github.com/user-attachments/assets/3c66ef96-35f7-4bc0-a45f-1fa66fb6345f)
 
 
+
+
 פרוצדורה 2: עדכון סטטוס הזמנה לפקיעה אם תאריך עזיבה עבר
+
+
 ![image](https://github.com/user-attachments/assets/56119bd0-f71d-4d96-b128-7031491dcae9)
 
+
+
 הפעלת הפרוצדורה:
+
+
 ![image](https://github.com/user-attachments/assets/d6f16387-5f17-4beb-aa61-e253289cc114)
 
+
+
 השינוי בבסיס הנתונים:
+
+
 ![image](https://github.com/user-attachments/assets/3ea7b87f-0743-48da-8b8f-f9b39a07528b)
+
+
 
 
 
 טריגרים:
 
+
+
 טריגר 1: בעת הוספת תשלום – ודא שסכום מעל 0
+
+
 ![image](https://github.com/user-attachments/assets/45d50e0a-2c5a-476d-a6d3-043aba89b554)
 
+
+
 בדיקה על ידי שאילתה שזורקת חריגה:
+
+
 ![image](https://github.com/user-attachments/assets/7013dbec-71ae-4cce-aced-dbbc88c7d86a)
 
 
+
+
 טריגר 2: בעת שינוי מצב חדר לעדכן הודעה בלוג (ניצור טבלת לוגים)
+
+
 ![image](https://github.com/user-attachments/assets/443ac715-7bd0-4a28-9598-7bdef209b27e)
 
+
+
+
 הפעלת הטריגר:
+
+
 ![image](https://github.com/user-attachments/assets/da5b4759-41ff-4efd-86e3-b8a2a52bed83)
 
+
+
 הוכחה שהטריגר עובד על ידי הסתכלות בלוג בנוצר:
+
+
 ![image](https://github.com/user-attachments/assets/46bfa7e3-7e20-4132-91de-9a1edb426b4c)
+
+
+
 
 
 תוכניות ראשיות:
 
+
+
 תוכנית ראשית 1: מציגה את כל הפעילויות הפנויות ואז מעדכנת מחיר של פעילות
+
+
+
 ![image](https://github.com/user-attachments/assets/3db6d8ac-e8d4-401c-97f6-a51f1e3c3138)
 
+
+
+
 תוכנית ראשית 2: מקבלת תשלום לפי מזהה ומפעילה ניקוי הזמנות ישנות
+
+
+
 ![image](https://github.com/user-attachments/assets/8bb29b23-2690-46f8-ab75-36e478f45671)
 
 
