@@ -40,3 +40,35 @@ BEGIN
     RETURN cur;
 END;
 $$ LANGUAGE plpgsql;
+
+
+-- FUNCTION: public.check_person_type(integer)
+
+-- DROP FUNCTION IF EXISTS public.check_person_type(integer);
+
+CREATE OR REPLACE FUNCTION public.check_person_type(
+  p_id integer)
+RETURNS TEXT
+LANGUAGE plpgsql
+AS $BODY$
+DECLARE
+  is_employee BOOLEAN;
+  is_visitor BOOLEAN;
+  result_text TEXT;
+BEGIN
+  SELECT EXISTS (SELECT 1 FROM employee WHERE pid = p_id) INTO is_employee;
+  SELECT EXISTS (SELECT 1 FROM visitor WHERE pid = p_id) INTO is_visitor;
+
+  IF is_employee AND is_visitor THEN
+    result_text := 'Person ' || p_id || ' is both Employee and Visitor.';
+  ELSIF is_employee THEN
+    result_text := 'Person ' || p_id || ' is an Employee.';
+  ELSIF is_visitor THEN
+    result_text := 'Person ' || p_id || ' is a Visitor.';
+  ELSE
+    result_text := 'Person ' || p_id || ' not found as Employee or Visitor.';
+  END IF;
+
+  RETURN result_text;
+END;
+$BODY$;

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="he">
+  <head>
+    <meta charset="UTF-8" />
+    <title>ניהול חדרים</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body class="container py-5">
+    <h2 class="text-center mb-4">ניהול חדרים (Room)</h2>
+
+    <!-- טופס הוספת חדר חדש -->
+    <div class="card mb-4">
+      <div class="card-header">הוספת חדר חדש</div>
+      <div class="card-body">
+        <form id="addRoomForm">
+          <div class="row g-3">
+            <div class="col-md-6">
+              <label for="type" class="form-label">סוג</label>
+              <input type="text" class="form-control" id="type" required />
+            </div>
+            <div class="col-md-6">
+              <label for="cost" class="form-label">מחיר ללילה</label>
+              <input
+                type="number"
+                class="form-control"
+                id="cost"
+                step="0.01"
+                required
+              />
+            </div>
+            <div class="col-md-6">
+              <label for="beds" class="form-label">מספר מיטות</label>
+              <input type="number" class="form-control" id="beds" required />
+            </div>
+            <div class="col-md-6">
+              <label for="status" class="form-label">סטטוס</label>
+              <input type="text" class="form-control" id="status" required />
+            </div>
+            <div class="col-md-6">
+              <label for="hotelid" class="form-label">מזהה מלון</label>
+              <input type="number" class="form-control" id="hotelid" required />
+            </div>
+          </div>
+          <button type="submit" class="btn btn-success mt-3">הוסף חדר</button>
+        </form>
+      </div>
+    </div>
+
+    <!-- טבלת חדרים -->
+    <div class="card">
+      <div class="card-header">רשימת חדרים קיימים</div>
+      <div class="card-body">
+        <table class="table table-bordered" id="roomsTable">
+          <thead>
+            <tr>
+              <th>מזהה</th>
+              <th>סוג</th>
+              <th>מחיר</th>
+              <th>מיטות</th>
+              <th>סטטוס</th>
+              <th>מלון</th>
+              <th>פעולות</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+
+    <script>
+      async function fetchRooms() {
+        const res = await fetch("/api/rooms");
+        const rooms = await res.json();
+        const tableBody = document.querySelector("#roomsTable tbody");
+        tableBody.innerHTML = "";
+        rooms.forEach((r) => {
+          const row = `<tr>
+        <td>${r.roomid}</td>
+        <td>${r.type}</td>
+        <td>${r.costpernight}</td>
+        <td>${r.numofbeds}</td>
+        <td>${r.roonstatus}</td>
+        <td>${r.hotelid}</td>
+        <td>
+          <button class="btn btn-danger btn-sm" onclick="deleteRoom(${r.roomid})">מחק</button>
+        </td>
+      </tr>`;
+          tableBody.innerHTML += row;
+        });
+      }
+
+      document
+        .getElementById("addRoomForm")
+        .addEventListener("submit", async (e) => {
+          e.preventDefault();
+          const room = {
+            type: type.value,
+            costpernight: parseFloat(cost.value),
+            numofbeds: parseInt(beds.value),
+            roonstatus: status.value,
+            hotelid: parseInt(hotelid.value),
+          };
+          const res = await fetch("/api/rooms", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(room),
+          });
+          if (res.ok) {
+            alert("חדר נוסף בהצלחה");
+            fetchRooms();
+            e.target.reset();
+          } else {
+            alert("שגיאה בהוספה");
+          }
+        });
+
+      async function deleteRoom(id) {
+        if (!confirm("למחוק את החדר?")) return;
+        const res = await fetch(`/api/rooms/${id}`, { method: "DELETE" });
+        if (res.ok) {
+          alert("נמחק בהצלחה");
+          fetchRooms();
+        } else {
+          alert("שגיאה במחיקה");
+        }
+      }
+
+      fetchRooms();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,4 @@
+node_modules/
+*.log
+stage 5/node_modules/
+stage 5/.package-lock.json
