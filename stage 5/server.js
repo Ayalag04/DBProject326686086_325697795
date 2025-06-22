@@ -179,6 +179,7 @@ app.delete("/api/rooms/:roomid", async (req, res) => {
     const result = await db.query("DELETE FROM room WHERE roomid=$1", [roomid]);
     if (result.rowCount === 0)
       return res.status(404).json({ error: "Room not found" });
+
     res.json({ message: "Room deleted" });
   } catch (err) {
     res.status(500).json({ error: err.message });
